@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.content {
+    transform: translate(-50%,-50%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.content h1 {
+    font-size: 3rem;
+    font-family: sans-serif;
+}
+
+.content p {
+    text-align: center;
+    font-size: 1.2rem;
+    font-family: sans-serif;
+}
